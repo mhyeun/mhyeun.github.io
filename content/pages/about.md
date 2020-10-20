@@ -1,13 +1,25 @@
 ---
-title: "About me"
+title: "About"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/about_photo.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Thanks for visiting! My name's Matthew but I usually go by Matt.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I am a third-year Mechatronics Engineering student at the University of Waterloo; however, I am an aspiring fullstack software developer. I also love cooking, and reading about history, sociology, and most recently, philosophy.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+#### Past Experiences
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+- In the summer of 2019, I worked as an _automation developer_ at [Ford](https://www.ford.ca/) in Ottawa.
+
+- In early 2020, I got into web development and completed an internship at [Tjene](https://tjene.com/)
+  as a _frontend developer_.
+
+- Currently, I'm working as a _software engineering intern_ at [Setter](https://setter.com/).
+
+Not enough info? Here's <a href="/media/resume_f2020.pdf" target="_blank">a link</a>
+to my resume.
+
+![Photo of me in Bern, Switzerland a few years ago.](/media/about_photo.jpg)
+
+_@ Art Gallery of Ontario. Can't seem to remember what I was thinking about so profoundly. Probably the lack of chairs in the gallery._
