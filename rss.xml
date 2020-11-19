@@ -1,50 +1,299 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Matthew Hyeun]]></title><description><![CDATA[Matthew Hyeun]]></description><link>https://lumen.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Tue, 20 Oct 2020 21:15:28 GMT</lastBuildDate><item><title><![CDATA[Test Article]]></title><description><![CDATA[Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.]]></description><link>https://lumen.netlify.com/posts/test-article</link><guid isPermaLink="false">https://lumen.netlify.com/posts/test-article</guid><pubDate>Tue, 20 Oct 2020 21:00:11 GMT</pubDate><content:encoded>&lt;p&gt;Quisque cursus, metus vitae pharetra auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie dui. Praesent blandit dolor. Sed non quam. In vel mi sit amet augue congue elementum.&lt;/p&gt;
-&lt;p&gt;&lt;span
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Matthew Hyeun]]></title><description><![CDATA[Matthew Hyeun]]></description><link>https://lumen.netlify.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 19 Nov 2020 02:53:38 GMT</lastBuildDate><item><title><![CDATA[Victory for Democracy in Bolivia]]></title><description><![CDATA[Luis Arce of the Movement for Socialism (MAS) party will be inaugurated as the next President of Bolivia on November 8th, 2020 after a landslide victory in the 2020 general election. Following a long year of violent political unrest caused by a U.S-backed coup, not only is this a convincing victory for the MAS, but also for democracy as a whole.]]></description><link>https://lumen.netlify.com/posts/victory-for-democracy-in-bolivia</link><guid isPermaLink="false">https://lumen.netlify.com/posts/victory-for-democracy-in-bolivia</guid><pubDate>Thu, 19 Nov 2020 02:49:21 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/29635124cd56a5fab0adc019608d02eb/9568a/about_photo.jpg&quot;
+    href=&quot;/static/e0da6ec33bd0a560f755c8866f472eaa/72e01/luis_arce.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 78.75000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAQABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAQFA//EABYBAQEBAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAABZ3Tm53eEAf/EABsQAQACAgMAAAAAAAAAAAAAAAEDEwACBBIi/9oACAEBAAEFAoXI31JZ235AZc26zKf/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEv/aAAgBAwEBPwFL/8QAFhEBAQEAAAAAAAAAAAAAAAAAAAER/9oACAECAQE/AY1//8QAHBAAAQMFAAAAAAAAAAAAAAAAAAERIQISIjGR/9oACAEBAAY/AlFpaUMNDPwuJg//xAAaEAACAwEBAAAAAAAAAAAAAAAAAREhUTFB/9oACAEBAAE/IWu88VMXKRWUvDEoMujxCNk2iQSbJP/aAAwDAQACAAMAAAAQ2y//xAAWEQEBAQAAAAAAAAAAAAAAAAABAEH/2gAIAQMBAT8QQNif/8QAFhEAAwAAAAAAAAAAAAAAAAAAARAR/9oACAECAQE/EKK//8QAHBABAQADAQADAAAAAAAAAAAAAREAITFRQYHx/9oACAEBAAE/EGWSOhnP3FpGiAKdSZYWYWp37xBQNPBiPKOj5DzXcHh4FZ//2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 67.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAgX/xAAVAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAABmqSxTJnjP//EABkQAAIDAQAAAAAAAAAAAAAAAAECABESA//aAAgBAQABBQK8wtXN3F62jNCZ/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8BZ//EABYRAAMAAAAAAAAAAAAAAAAAAAIQMf/aAAgBAgEBPwEYv//EABoQAQADAAMAAAAAAAAAAAAAAAEAESEQEmH/2gAIAQEABj8CbMnZC5gTcPIcf//EABsQAAMAAwEBAAAAAAAAAAAAAAABESExUYGR/9oACAEBAAE/IZdcBVOfBNR40SG1Vd6Ff4BdxXOlHVg//9oADAMBAAIAAwAAABB43//EABcRAAMBAAAAAAAAAAAAAAAAAAABIUH/2gAIAQMBAT8Qd4Q//8QAFxEBAAMAAAAAAAAAAAAAAAAAARARUf/aAAgBAgEBPxADZ2P/xAAcEAEBAAMBAAMAAAAAAAAAAAABEQAhMUFRgeH/2gAIAQEAAT8QLvXOLeD57MQuHBqvoW/uaaTR7V1kjaQfDZJhhgHdK/WKoAWzuf/Z&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
         &lt;source
-          srcset=&quot;/static/29635124cd56a5fab0adc019608d02eb/8ac56/about_photo.webp 240w,
-/static/29635124cd56a5fab0adc019608d02eb/d3be9/about_photo.webp 480w,
-/static/29635124cd56a5fab0adc019608d02eb/e46b2/about_photo.webp 960w,
-/static/29635124cd56a5fab0adc019608d02eb/f992d/about_photo.webp 1440w,
-/static/29635124cd56a5fab0adc019608d02eb/882b9/about_photo.webp 1920w,
-/static/29635124cd56a5fab0adc019608d02eb/e51ec/about_photo.webp 3024w&quot;
+          srcset=&quot;/static/e0da6ec33bd0a560f755c8866f472eaa/8ac56/luis_arce.webp 240w,
+/static/e0da6ec33bd0a560f755c8866f472eaa/d3be9/luis_arce.webp 480w,
+/static/e0da6ec33bd0a560f755c8866f472eaa/e46b2/luis_arce.webp 960w,
+/static/e0da6ec33bd0a560f755c8866f472eaa/a9a89/luis_arce.webp 1024w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/webp&quot;
         /&gt;
         &lt;source
-          srcset=&quot;/static/29635124cd56a5fab0adc019608d02eb/09b79/about_photo.jpg 240w,
-/static/29635124cd56a5fab0adc019608d02eb/7cc5e/about_photo.jpg 480w,
-/static/29635124cd56a5fab0adc019608d02eb/6a068/about_photo.jpg 960w,
-/static/29635124cd56a5fab0adc019608d02eb/644c5/about_photo.jpg 1440w,
-/static/29635124cd56a5fab0adc019608d02eb/0f98f/about_photo.jpg 1920w,
-/static/29635124cd56a5fab0adc019608d02eb/9568a/about_photo.jpg 3024w&quot;
+          srcset=&quot;/static/e0da6ec33bd0a560f755c8866f472eaa/09b79/luis_arce.jpg 240w,
+/static/e0da6ec33bd0a560f755c8866f472eaa/7cc5e/luis_arce.jpg 480w,
+/static/e0da6ec33bd0a560f755c8866f472eaa/6a068/luis_arce.jpg 960w,
+/static/e0da6ec33bd0a560f755c8866f472eaa/72e01/luis_arce.jpg 1024w&quot;
           sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
           type=&quot;image/jpeg&quot;
         /&gt;
         &lt;img
           class=&quot;gatsby-resp-image-image&quot;
-          src=&quot;/static/29635124cd56a5fab0adc019608d02eb/6a068/about_photo.jpg&quot;
-          alt=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
-          title=&quot;Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus&quot;
+          src=&quot;/static/e0da6ec33bd0a560f755c8866f472eaa/6a068/luis_arce.jpg&quot;
+          alt=&quot;MAS victory&quot;
+          title=&quot;MAS victory&quot;
           loading=&quot;lazy&quot;
           style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         /&gt;
       &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis.&lt;/p&gt;
-&lt;p&gt;Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;&lt;em&gt;Luis Arce of the Movement for Socialism wins the Bolivian presidential election by a landslide.&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&quot;preface&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#preface&quot; aria-label=&quot;preface permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Preface&lt;/h4&gt;
+&lt;p&gt;Bolivia has a soft spot in my heart, as I spent around 2 months there back in 2016. I met a lot of great people there and had great conversations, despite the language barrier.&lt;/p&gt;
+&lt;p&gt;Last year, the socialist government led by Evo Morales was violently overthrown; it is speculated that this was caused by a U.S-backed staged coup. As his replacement, a far-right senator, Jeanine Áñez, assumed the presidency. Throughout the year, Bolivia has cycled through protests and counterprotests. As a direct result, there has been escalating political unrest and ethnic tensions leading to more than 30 deaths, most being indigenous pro-Morales protestors.&lt;/p&gt;
+&lt;p&gt;A few weeks ago, the Bolivian people have spoken, and they have spoken quite loudly. The previously mentioned socialist party has come back into power after a landslide victory in the 2020 Bolivian general election.&lt;/p&gt;
+&lt;p&gt;Why were they overthrown in the first place? What does it mean for them to be back in power? Why should you care?&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/0b83c70b4c352d61148bd9c64d5c2f99/c9f7f/bolivia.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 57.08333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAIEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAEC/9oADAMBAAIQAxAAAAG2PVypWEGP/8QAGhAAAgIDAAAAAAAAAAAAAAAAAQIDMQQSM//aAAgBAQABBQJ9gZmCIpDKazKi5//EABgRAAMBAQAAAAAAAAAAAAAAAAABAhEx/9oACAEDAQE/AXK6ZJ//xAAYEQADAQEAAAAAAAAAAAAAAAAAAQITMf/aAAgBAgEBPwFW+GlH/8QAHBAAAgEFAQAAAAAAAAAAAAAAAAERAhASITFx/9oACAEBAAY/AlSowNdJh2Xoj//EABwQAAIDAAMBAAAAAAAAAAAAAAABESExQWGRsf/aAAgBAQABPyGgjbrSQNZwoQsJ4GAifWKULn6f/9oADAMBAAIAAwAAABAHH//EABgRAAIDAAAAAAAAAAAAAAAAAAABETFx/9oACAEDAQE/EGsDTcn/xAAYEQACAwAAAAAAAAAAAAAAAAAAAREhYf/aAAgBAgEBPxBZ6HLR/8QAHRABAAICAgMAAAAAAAAAAAAAAQARITFBUWGhwf/aAAgBAQABPxApDi1yXS+4UWjyN97xqJsWZrlzG0dvyKaXZXjUBVyWbB5T/9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/0b83c70b4c352d61148bd9c64d5c2f99/8ac56/bolivia.webp 240w,
+/static/0b83c70b4c352d61148bd9c64d5c2f99/d3be9/bolivia.webp 480w,
+/static/0b83c70b4c352d61148bd9c64d5c2f99/e46b2/bolivia.webp 960w,
+/static/0b83c70b4c352d61148bd9c64d5c2f99/f992d/bolivia.webp 1440w,
+/static/0b83c70b4c352d61148bd9c64d5c2f99/f9c61/bolivia.webp 1703w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/0b83c70b4c352d61148bd9c64d5c2f99/09b79/bolivia.jpg 240w,
+/static/0b83c70b4c352d61148bd9c64d5c2f99/7cc5e/bolivia.jpg 480w,
+/static/0b83c70b4c352d61148bd9c64d5c2f99/6a068/bolivia.jpg 960w,
+/static/0b83c70b4c352d61148bd9c64d5c2f99/644c5/bolivia.jpg 1440w,
+/static/0b83c70b4c352d61148bd9c64d5c2f99/c9f7f/bolivia.jpg 1703w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/0b83c70b4c352d61148bd9c64d5c2f99/6a068/bolivia.jpg&quot;
+          alt=&quot;Picture of me in Bolivia&quot;
+          title=&quot;Picture of me in Bolivia&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Turns out it’s actually pretty cold in Bolivia during their winters.&lt;/em&gt;&lt;/p&gt;
+&lt;h4 id=&quot;evo-morales-rather-shady-timeline&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#evo-morales-rather-shady-timeline&quot; aria-label=&quot;evo morales rather shady timeline permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Evo Morales’ rather shady timeline&lt;/h4&gt;
+&lt;p&gt;Evo Morales of the Movement for Socialism (MAS) party was the first indigenous president of Bolivia, elected for the first time in 2005. His administration emphasized on moving towards a mixed economy (anti-neoliberalism), environmentalism, and social reform.&lt;/p&gt;
+&lt;p&gt;In Bolivia, presidents are limited to a maximum of &lt;strong&gt;two&lt;/strong&gt; consectutive terms. However, the constitutional court allowed Morales to run for a third consectutive term ruling that his first term did not count towards the limit, since it was before the new constitution was ratified in 2009. Pretty shady stuff, but I guess it makes some sense.&lt;/p&gt;
+&lt;p&gt;During his third term, Morales vowed that he would not attempt to run for a fourth term and that he would never consider amending the constitution to allow for this.&lt;/p&gt;
+&lt;p&gt;That’s a very oddly specific promise to make to the people.&lt;/p&gt;
+&lt;p&gt;Did he keep his word? Let’s take a look.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2016&lt;/strong&gt;: A referendum sponsored by the MAS’ attempt to amend the constitution to allow a new limit of three consecutive terms is held. The amendment fails by a slim margin.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;…is this democratic? I guess by definition, a referendum is pretty democratic&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;2017&lt;/strong&gt;: Claiming that term limits are human rights violations according to the American Convention on Human Rights, MAS petitions to the Plurinational Constitutional Court to abolish term limits. The court accepts the petition, allowing Morales to submit his application for presidential candidacy to the Bolivian Electoral Tribunal. The application is approved by the tribunal. It is likely that both courts had a strong majority of Morales loyalists.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;…that’s not very democratic&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;2019&lt;/strong&gt;: Morales wins the election for his fourth presidential term by a very small margin. Protests and counterprotests begin in Bolivia as the people begin to have suspicions about electoral fraud.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I think we can say that he did &lt;em&gt;not&lt;/em&gt; keep his word.&lt;/p&gt;
+&lt;h4 id=&quot;the-coup-détat&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#the-coup-d%C3%A9tat&quot; aria-label=&quot;the coup détat permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The coup d’état&lt;/h4&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/6c16726a231a5c4e2329628f6991b9ec/b17f8/morales_in_mexico.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAQAC/9oADAMBAAIQAxAAAAGJZmFW2Gj/xAAdEAABAgcAAAAAAAAAAAAAAAACAQMABBESEyEj/9oACAEBAAEFAsZAKElpC/WfXmWnI//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/Aar/xAAXEQEAAwAAAAAAAAAAAAAAAAAAAQIR/9oACAECAQE/AZqx/8QAHRAAAgEEAwAAAAAAAAAAAAAAAQIAEBESIUFxgf/aAAgBAQAGPwK7AiYbLcTSERO4vlP/xAAcEAEAAgEFAAAAAAAAAAAAAAABABEhMVFhcbH/2gAIAQEAAT8heCzcHRfRvNA6MBeFQ2TZeRXHU//aAAwDAQACAAMAAAAQhM//xAAXEQEAAwAAAAAAAAAAAAAAAAABEBEh/9oACAEDAQE/EC+kf//EABcRAQEBAQAAAAAAAAAAAAAAAAEAMfD/2gAIAQIBAT8QB2Bxf//EABsQAQADAAMBAAAAAAAAAAAAAAEAESExUWFx/9oACAEBAAE/EMgV0Av57dTSnshLeTxiBTQKQh35Ad0EIrTq9qFCXUT/2Q==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/6c16726a231a5c4e2329628f6991b9ec/8ac56/morales_in_mexico.webp 240w,
+/static/6c16726a231a5c4e2329628f6991b9ec/d3be9/morales_in_mexico.webp 480w,
+/static/6c16726a231a5c4e2329628f6991b9ec/e46b2/morales_in_mexico.webp 960w,
+/static/6c16726a231a5c4e2329628f6991b9ec/f992d/morales_in_mexico.webp 1440w,
+/static/6c16726a231a5c4e2329628f6991b9ec/fad48/morales_in_mexico.webp 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/6c16726a231a5c4e2329628f6991b9ec/09b79/morales_in_mexico.jpg 240w,
+/static/6c16726a231a5c4e2329628f6991b9ec/7cc5e/morales_in_mexico.jpg 480w,
+/static/6c16726a231a5c4e2329628f6991b9ec/6a068/morales_in_mexico.jpg 960w,
+/static/6c16726a231a5c4e2329628f6991b9ec/644c5/morales_in_mexico.jpg 1440w,
+/static/6c16726a231a5c4e2329628f6991b9ec/b17f8/morales_in_mexico.jpg 1600w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/6c16726a231a5c4e2329628f6991b9ec/6a068/morales_in_mexico.jpg&quot;
+          alt=&quot;Morales speaking from Mexico&quot;
+          title=&quot;Morales speaking from Mexico&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Morales speaks in Mexico, where he seeks political asylum.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;With the protests continuing to rage on, violence began to erupt. A bounty was put on Morales’ head and armed intruders broke into his home in Cochabamba. Shortly after, an arsonist attack took place at his sister’s home. After several weeks of protests, the head of military suggested to Morales that he should resign.&lt;/p&gt;
+&lt;p&gt;After resigning, Morales fled Cochabamba for Mexico, where they immediately offered him political asylum.&lt;/p&gt;
+&lt;p&gt;Just like that, Morales and the MAS were overthrown.&lt;/p&gt;
+&lt;h4 id=&quot;was-it-actually-a-coup&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#was-it-actually-a-coup&quot; aria-label=&quot;was it actually a coup permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Was it &lt;em&gt;actually&lt;/em&gt; a coup?&lt;/h4&gt;
+&lt;p&gt;There is controversy whether if this ‘political crisis’ was either a coup d’état or a popular uprising. I personally think that the two are not mutually exclusive.&lt;/p&gt;
+&lt;p&gt;Let’s take a look at the definition of both terms:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A &lt;strong&gt;coup&lt;/strong&gt; or &lt;strong&gt;coup d’état&lt;/strong&gt; is the removal of an existing government from power, usually through violent means.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A &lt;strong&gt;popular uprising&lt;/strong&gt; is a popular revolt that attempts to overthrow a government or its policies.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I think it’s pretty easy to say that this political crisis can be classified as both a coup, and a popular uprising. It’s pretty clear that the people were suspicious of a dictatorship and they were compelled to do something to overthrow the government — but the amount of violence that ensued makes it hard to not consider it a coup. In retrospect, seeing how convincingly the MAS won the presidential election only a year after it was violently overthrown makes it even easier to argue that this event was in fact, a coup.&lt;/p&gt;
+&lt;h4 id=&quot;us-involvement-in-the-coup&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#us-involvement-in-the-coup&quot; aria-label=&quot;us involvement in the coup permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;U.S involvement in the coup&lt;/h4&gt;
+&lt;p&gt;Governments that don’t align with the U.S’ interests tend to get overthrown, especially in Latin America. Here’s a wikipedia article titled ”&lt;a href=&quot;https://en.wikipedia.org/wiki/United_States_involvement_in_regime_change_in_Latin_America&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;United States involvement in regime change in Latin America&lt;/a&gt;“.&lt;/p&gt;
+&lt;p&gt;Overthrowing governments in Latin America was at its peak for the United States during the Cold War to contain geopolitical expansion of the Soviet Union. Overthrowing these governments was aligned with the famous &lt;a href=&quot;https://en.wikipedia.org/wiki/Truman_Doctrine&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Truman Doctrine&lt;/a&gt;. Many Latin American countries had their democratically elected presidents overthrown by the U.S government, purely for the reason that their political ideology was not aligned with the U.S’. These coups usually led to far-right military dictatorships — some examples of where this happened include Argentina, Uruguay, and of course, Bolivia.&lt;/p&gt;
+&lt;p&gt;Now hold on a second, the Cold War ended decades ago…&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Why is the U.S interested in overthrowing Bolivia’s government again?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Lithium. “The new oil”. The bipolar disorder-treating, battery-powering element.&lt;/p&gt;
+&lt;h4 id=&quot;lets-talk-about-lithium&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#lets-talk-about-lithium&quot; aria-label=&quot;lets talk about lithium permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Let’s talk about lithium&lt;/h4&gt;
+&lt;p&gt;As the world makes a shift towards clean energy, lithium is becoming a more and more valuable natural resource. Lithium is one of the key resources in batteries. To make electric vehicle batteries, and batteries that store energy generated by solar panels and wind turbines, you’re going to need lithium.&lt;/p&gt;
+&lt;p&gt;Bolivia has a shit ton of lithium. They are home to the world’s largest salt flat, which alone contains 23 million tons of lithium — and that’s one of their many salt flats. For comparison, Australia, who is currently the world’s leader in production of lithium, only has 6.9 million tons.&lt;/p&gt;
+&lt;p&gt;Tesla, as the world leader in electric vehicle development, has a large interest in obtaining lithium for cheaper since it’s such a key resource for their products. Elon Musk, Tesla’s CEO, has publicly supported the coup in Bolivia and is most likely the reason why the U.S overthrew the Bolivian government in the first place. He tweeted that “We will coup whoever we want” and that they should just “Deal with it”.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 539px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/c2d6fe1c2112b6ef6c0f8bc8738603ae/d6a76/elon_sucks.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.41666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAOABQDASIAAhEBAxEB/8QAFwABAAMAAAAAAAAAAAAAAAAAAAEDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAdqwJB//xAAVEAEBAAAAAAAAAAAAAAAAAAABIP/aAAgBAQABBQIr/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFRABAQAAAAAAAAAAAAAAAAAAIEH/2gAIAQEABj8Cq//EABsQAAICAwEAAAAAAAAAAAAAAAERABAhQWFx/9oACAEBAAE/IR852YumlEK//9oADAMBAAIAAwAAABDQz//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQACAwEBAAAAAAAAAAAAAAEAESExQXHR/9oACAEBAAE/EBFosXTvuoV+kCja+yubCGKwuGZ//9k=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/c2d6fe1c2112b6ef6c0f8bc8738603ae/8ac56/elon_sucks.webp 240w,
+/static/c2d6fe1c2112b6ef6c0f8bc8738603ae/d3be9/elon_sucks.webp 480w,
+/static/c2d6fe1c2112b6ef6c0f8bc8738603ae/9cb26/elon_sucks.webp 539w&quot;
+          sizes=&quot;(max-width: 539px) 100vw, 539px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/c2d6fe1c2112b6ef6c0f8bc8738603ae/09b79/elon_sucks.jpg 240w,
+/static/c2d6fe1c2112b6ef6c0f8bc8738603ae/7cc5e/elon_sucks.jpg 480w,
+/static/c2d6fe1c2112b6ef6c0f8bc8738603ae/d6a76/elon_sucks.jpg 539w&quot;
+          sizes=&quot;(max-width: 539px) 100vw, 539px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/c2d6fe1c2112b6ef6c0f8bc8738603ae/d6a76/elon_sucks.jpg&quot;
+          alt=&quot;Elon sucks&quot;
+          title=&quot;Elon sucks&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Musk’s terrible tweet. Even if you think that, why would you post this publicly?&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;This tweet was taken down rather quickly, and seeing how many of his dumb tweets are still up puts into perspective of how dumb this tweet actually was.&lt;/p&gt;
+&lt;p&gt;Let’s just think about this crazy scenario for a second — a single person has the power to overthrow a government in a country across the world.&lt;/p&gt;
+&lt;h4 id=&quot;the-aftermath-of-the-coup&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#the-aftermath-of-the-coup&quot; aria-label=&quot;the aftermath of the coup permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;The aftermath of the coup&lt;/h4&gt;
+&lt;p&gt;Shortly after the official resignation of Evo Morales, a far-right senator, Jeanine Áñez, was appointed as interim president. The U.S was quick to recognize her as the president.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/8d6d40895a26181b4b21a74b01587a59/1839c/trump_tweet.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 19.166666666666664%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAEABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAc4JAR//xAAWEAEBAQAAAAAAAAAAAAAAAAAAATH/2gAIAQEAAQUC2K//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAWEAADAAAAAAAAAAAAAAAAAAAAEDH/2gAIAQEABj8CIv/EABoQAAICAwAAAAAAAAAAAAAAAAABESExQVH/2gAIAQEAAT8hTseyFwWeIP/aAAwDAQACAAMAAAAQ+/8A/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAGRABAQEBAQEAAAAAAAAAAAAAAREAIZHR/9oACAEBAAE/EHIRRXkvmV+GdYI5Df/Z&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+        &lt;source
+          srcset=&quot;/static/8d6d40895a26181b4b21a74b01587a59/8ac56/trump_tweet.webp 240w,
+/static/8d6d40895a26181b4b21a74b01587a59/d3be9/trump_tweet.webp 480w,
+/static/8d6d40895a26181b4b21a74b01587a59/e46b2/trump_tweet.webp 960w,
+/static/8d6d40895a26181b4b21a74b01587a59/31d32/trump_tweet.webp 1196w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/webp&quot;
+        /&gt;
+        &lt;source
+          srcset=&quot;/static/8d6d40895a26181b4b21a74b01587a59/09b79/trump_tweet.jpg 240w,
+/static/8d6d40895a26181b4b21a74b01587a59/7cc5e/trump_tweet.jpg 480w,
+/static/8d6d40895a26181b4b21a74b01587a59/6a068/trump_tweet.jpg 960w,
+/static/8d6d40895a26181b4b21a74b01587a59/1839c/trump_tweet.jpg 1196w&quot;
+          sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+          type=&quot;image/jpeg&quot;
+        /&gt;
+        &lt;img
+          class=&quot;gatsby-resp-image-image&quot;
+          src=&quot;/static/8d6d40895a26181b4b21a74b01587a59/6a068/trump_tweet.jpg&quot;
+          alt=&quot;Trump&amp;#39;s tweet&quot;
+          title=&quot;Trump&amp;#39;s tweet&quot;
+          loading=&quot;lazy&quot;
+          style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        /&gt;
+      &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;During this interim period, the already existing polarization between indigenous and non-indigenous people were escalated. Áñez’s presidency contributed a lot to this:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Despite Bolivia’s population being 41% indigenous, Áñez’s cabinet initially had absolutely zero indigenous representation&lt;/li&gt;
+&lt;li&gt;Áñez had previously called the Aymara people’s New Year celebration as “satanic”, saying that “nobody can replace God”, and some other racist tweets&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;There were also massacres following violent protests in Senkata and Sacaba, areas with high indigenous populations. There was controversy about Áñez’s government when they granted immunity to military and police forces for their crimes while repressing these protestors — the repression led to 6 dead and 115 wounded.&lt;/p&gt;
+&lt;h4 id=&quot;2020-bolivian-general-election&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#2020-bolivian-general-election&quot; aria-label=&quot;2020 bolivian general election permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;2020 Bolivian general election&lt;/h4&gt;
+&lt;p&gt;Jeanine Áñez had decided to not run for the presidency in the 2020 election, since she didn’t want to risk splitting the vote between conservative candidates. The MAS appointed Luis Arce, former Minister of Finance under Morales, as their candidate.&lt;/p&gt;
+&lt;p&gt;The 2020 election was a landslide for the MAS for the presidency, the senate, and the chamber:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Luis Arce won 55.10% of the popular vote, with the runner-up having only 28.83%&lt;/li&gt;
+&lt;li&gt;The MAS won 21/36 seats in the senate, a majority&lt;/li&gt;
+&lt;li&gt;The MAS won 75/130 seats in the chamber, a majority&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Not only was this a massive win for the MAS, but also for democracy as a whole.&lt;/p&gt;
+&lt;h4 id=&quot;what-now&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#what-now&quot; aria-label=&quot;what now permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;What now?&lt;/h4&gt;
+&lt;p&gt;Arce has a ton of work to do. Bolivia has been one of hardest hit countries by the Coronavirus disease, and the country is in an economic crisis. There is hope that he will do well to rebuild the economy due to his expertise in economics.&lt;/p&gt;
+&lt;p&gt;There are many questions for how the MAS will handle things in the future.&lt;/p&gt;
+&lt;p&gt;What role will Morales have in Arce’s administration? How will they rebuild their economy? How will they go about handling the gold mine of lithium that they’re sitting on?&lt;/p&gt;
+&lt;p&gt;But for now, they should congratulate themselves on a purely democractic landslide victory.&lt;/p&gt;
+&lt;h4 id=&quot;final-thoughts&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#final-thoughts&quot; aria-label=&quot;final thoughts permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Final thoughts&lt;/h4&gt;
+&lt;p&gt;Bolivia’s win and the MAS’ win is a big move for moderate socialism in Latin America. Whatever your views on socialism are, you have to agree that democracy being practiced to its core is a great thing to see — and that they have the right to run their country how their people have decided they want it.&lt;/p&gt;
+&lt;p&gt;I can’t help myself but cheer for the underdog — it’s exciting to see the U.S’ attempts at tapping Bolivia’s lithium reserves completely fail. We’re not sure if lithium will become the next oil. But if it does, we will know for a fact that the lithium capital of the world won’t give in so easily to the U.S.&lt;/p&gt;
+&lt;p&gt;Congratulations to Luis Arce, the MAS, and Bolivia!&lt;/p&gt;
+&lt;p&gt;(and to me for finally finishing this article)&lt;/p&gt;</content:encoded></item></channel></rss>
