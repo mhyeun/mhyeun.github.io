@@ -8,7 +8,7 @@ category: "Politics"
 tags:
   - "Politics"
   - "Opinion"
-description: "Luis Arce of the Movement for Socialism (MAS) party will be inaugurated as the next President of Bolivia on November 8th, 2020 after a landslide victory in the 2020 general election. Following a long year of violent political unrest caused by a U.S-backed coup, not only is this a convincing victory for the MAS, but also for democracy as a whole."
+description: "Luis Arce of the Movement for Socialism (MAS) party was inaugurated as President of Bolivia on November 8th, 2020 after a landslide victory in the 2020 general election. Following a long year of violent political unrest caused by a U.S-backed coup, not only is this a convincing victory for the MAS, but also for democracy as a whole."
 socialImage: "/media/luis_arce.jpg"
 ---
 
