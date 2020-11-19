@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: "/",
   title: "Matthew Hyeun",
   subtitle: "",
-  copyright: "Made with Gatsby.js Lumen theme.",
+  copyright: "Made with Gatsby.js",
   disqusShortname: "",
   postsPerPage: 3,
   googleAnalyticsId: "UA-73379983-2",
