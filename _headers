@@ -21,9 +21,9 @@
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-categories-list-template-js-eadb914010875380852b.js
   Cache-Control: public, max-age=31536000, immutable
-/component---src-templates-post-template-js-7535dc9154d1b9aaf060.js
-  Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-page-template-js-d55f0b2b3ec71ea8a907.js
+  Cache-Control: public, max-age=31536000, immutable
+/component---src-templates-post-template-js-7535dc9154d1b9aaf060.js
   Cache-Control: public, max-age=31536000, immutable
 /component---src-templates-tag-template-js-e88e12d00925fd465122.js
   Cache-Control: public, max-age=31536000, immutable
@@ -87,17 +87,6 @@
   Link: </component---src-templates-categories-list-template-js-eadb914010875380852b.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/victory-for-democracy-in-bolivia
-  Link: </webpack-runtime-38d1e997491902fb5e07.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </framework-3a07bb01dd6a58531acd.js>; rel=preload; as=script
-  Link: </532a2f07-b32c28cb7cdd6cc07e70.js>; rel=preload; as=script
-  Link: </app-6323b184745c0c55e4c1.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-7ef754d561679e5a9eaf.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-7535dc9154d1b9aaf060.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/victory-for-democracy-in-bolivia/page-data.json>; rel=preload; as=fetch; crossorigin
 /pages/about/
   Link: </webpack-runtime-38d1e997491902fb5e07.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -120,6 +109,17 @@
   Link: </component---src-templates-page-template-js-d55f0b2b3ec71ea8a907.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/pages/contact/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/victory-for-democracy-in-bolivia
+  Link: </webpack-runtime-38d1e997491902fb5e07.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-3a07bb01dd6a58531acd.js>; rel=preload; as=script
+  Link: </532a2f07-b32c28cb7cdd6cc07e70.js>; rel=preload; as=script
+  Link: </app-6323b184745c0c55e4c1.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-7ef754d561679e5a9eaf.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-7535dc9154d1b9aaf060.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/victory-for-democracy-in-bolivia/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/opinion
   Link: </webpack-runtime-38d1e997491902fb5e07.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
