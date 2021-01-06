@@ -17,7 +17,7 @@ I am a third-year Mechatronics Engineering student at the University of Waterloo
 
 - Currently, I'm working as a _software engineering intern_ at [Setter](https://setter.com/).
 
-Not enough info? Here's <a href="/media/resume_f2020.pdf" target="_blank">a link</a>
+Not enough info? Here's <a href="/media/W21_MatthewHyeun.pdf" target="_blank">a link</a>
 to my resume.
 
 ![Photo of me in Bern, Switzerland a few years ago.](/media/about_photo.jpg)

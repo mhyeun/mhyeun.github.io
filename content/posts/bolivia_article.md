@@ -9,10 +9,10 @@ tags:
   - "Politics"
   - "Opinion"
 description: "Luis Arce of the Movement for Socialism (MAS) party was inaugurated as President of Bolivia on November 8th, 2020 after a landslide victory in the 2020 general election. Following a long year of violent political unrest caused by a U.S-backed coup, not only is this a convincing victory for the MAS, but also for democracy as a whole."
-socialImage: "/media/luis_arce.jpg"
+socialImage: "/media/bolivia_article/luis_arce.jpg"
 ---
 
-![MAS victory](/media/luis_arce.jpg)
+![MAS victory](/media/bolivia_article/luis_arce.jpg)
 
 _Luis Arce of the Movement for Socialism wins the Bolivian presidential election by a landslide._
 
@@ -26,7 +26,7 @@ A few weeks ago, the Bolivian people have spoken, and they have spoken quite lou
 
 Why were they overthrown in the first place? What does it mean for them to be back in power? Why should you care?
 
-![Picture of me in Bolivia](/media/bolivia.jpg)
+![Picture of me in Bolivia](/media/bolivia_article/bolivia.jpg)
 
 _Turns out it's actually pretty cold in Bolivia during their winters._
 
@@ -56,7 +56,7 @@ I think we can say that he did _not_ keep his word.
 
 #### The coup d'état
 
-![Morales speaking from Mexico](/media/morales_in_mexico.jpg)
+![Morales speaking from Mexico](/media/bolivia_article/morales_in_mexico.jpg)
 
 _Morales speaks in Mexico, where he seeks political asylum._
 
@@ -98,7 +98,7 @@ Bolivia has a shit ton of lithium. They are home to the world's largest salt fla
 
 Tesla, as the world leader in electric vehicle development, has a large interest in obtaining lithium for cheaper since it's such a key resource for their products. Elon Musk, Tesla's CEO, has publicly supported the coup in Bolivia and is most likely the reason why the U.S overthrew the Bolivian government in the first place. He tweeted that "We will coup whoever we want" and that they should just "Deal with it".
 
-![Elon sucks](/media/elon_sucks.jpg)
+![Elon sucks](/media/bolivia_article/elon_sucks.jpg)
 
 _Musk's terrible tweet. Even if you think that, why would you post this publicly?_
 
@@ -110,7 +110,7 @@ Let's just think about this crazy scenario for a second — a single person has 
 
 Shortly after the official resignation of Evo Morales, a far-right senator, Jeanine Áñez, was appointed as interim president. The U.S was quick to recognize her as the president.
 
-![Trump's tweet](/media/trump_tweet.jpg)
+![Trump's tweet](/media/bolivia_article/trump_tweet.jpg)
 
 During this interim period, the already existing polarization between indigenous and non-indigenous people were escalated. Áñez's presidency contributed a lot to this:
 
