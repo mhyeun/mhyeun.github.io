@@ -5,7 +5,7 @@ module.exports = {
   pathPrefix: "/",
   title: "Matthew Hyeun",
   subtitle: "",
-  copyright: "Made with Gatsby.js!",
+  copyright: "",
   disqusShortname: "",
   postsPerPage: 3,
   googleAnalyticsId: "UA-73379983-2",
@@ -18,15 +18,11 @@ module.exports = {
     {
       label: "About",
       path: "/pages/about",
-    },
-    {
-      label: "Contact",
-      path: "/pages/contact",
-    },
+    }
   ],
   author: {
     name: "Matthew Hyeun",
-    photo: "/photo.jpg",
+    photo: "/media/photo.jpg",
     bio:
       "Mechatronics Engineering + Software Engineering Minor @ UWaterloo.",
     contacts: {
