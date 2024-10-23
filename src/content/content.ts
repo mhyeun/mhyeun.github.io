@@ -89,8 +89,6 @@ I also feel like a full marathon isn't completely off the table anymore... this 
 | 20        	| 5:53  	| Was in a lot of pain + brutal uphill towards the end 	|
 | 21        	| 5:29  	| I don't remember much of this last km                	|
 | 21.1      	| idk   	| My watch bugged out                                  	|
-
-
 `,
   },
 ];
