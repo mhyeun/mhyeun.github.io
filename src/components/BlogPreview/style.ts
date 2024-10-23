@@ -19,6 +19,7 @@ export const getBlogDateAndCategoryBoxStyle: () => ComponentProps<
 > = () => ({
   display: 'flex',
   mb: '0.5vh',
+  alignItems: 'center',
 });
 
 export const getBlogDateStyle: () => ComponentProps<
