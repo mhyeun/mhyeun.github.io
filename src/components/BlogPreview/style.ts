@@ -27,7 +27,7 @@ export const getBlogDateStyle: () => ComponentProps<
   variant: 'subtitle1',
   sx: {
     color: 'gray',
-    mr: '0.5vw',
+    mr: '12px',
   },
 });
 
