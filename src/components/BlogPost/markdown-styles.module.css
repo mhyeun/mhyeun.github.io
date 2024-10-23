@@ -1,0 +1,26 @@
+.reactMarkDown {
+  font-family: 'Fira Code', monospace;
+}
+
+.reactMarkDown table {
+  border-spacing: 0 !important;
+  border-collapse: collapse !important;
+  border-color: inherit !important;
+  display: block !important;
+  margin: 0 auto !important;
+  width: 100% !important;
+  max-width: 100% !important;
+  overflow: auto !important;
+}
+
+.reactMarkDown tbody,
+.reactMarkDown td,
+.reactMarkDown tfoot,
+.reactMarkDown th,
+.reactMarkDown thead,
+.reactMarkDown tr {
+  border-color: inherit !important;
+  border-style: solid !important;
+  border-width: 2px !important;
+  padding: 0.5rem;
+}

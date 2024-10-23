@@ -1,15 +1,36 @@
-import { Box, Divider, ThemeProvider } from '@mui/material';
+import {
+  Box,
+  Divider,
+  ThemeProvider,
+  useMediaQuery,
+  useTheme,
+} from '@mui/material';
 import { theme } from './theme';
-import { Footer, Header } from './components';
-import { BlogPreview } from './components/BlogPreview';
+import { BlogPost, BlogPreview, Footer, Header } from './components';
+import { Navigate, Route, Routes } from 'react-router-dom';
+import { getAppBoxStyle } from './style';
 
 const App = () => {
+  const muiTheme = useTheme();
+  const isSmallScreen = useMediaQuery(muiTheme.breakpoints.down('sm'));
+
   return (
     <ThemeProvider theme={theme}>
-      <Box sx={{ mx: '24vw', mt: '4vh' }}>
-        <Header />
-        <Divider />
-        <BlogPreview />
+      <Box {...getAppBoxStyle(isSmallScreen)}>
+        <Routes>
+          <Route
+            path="/"
+            element={
+              <>
+                <Header />
+                <Divider />
+                <BlogPreview />
+              </>
+            }
+          />
+          <Route path="/blog/:blogId" element={<BlogPost />} />
+          <Route path="*" element={<Navigate to="/" />} />
+        </Routes>
         <Divider />
         <Footer />
       </Box>

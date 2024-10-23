@@ -1,9 +1,10 @@
 import { Box, Typography } from '@mui/material';
+import { getFooterBoxStyle, getFooterTextStyle } from './style';
 
 export const Footer = () => {
   return (
-    <Box sx={{ mt: '1vh' }}>
-      <Typography variant="body2" align="center">
+    <Box {...getFooterBoxStyle()}>
+      <Typography {...getFooterTextStyle()}>
         mhyeun - © {new Date().getFullYear()}
       </Typography>
     </Box>
